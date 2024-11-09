@@ -1,9 +1,8 @@
-# Exercício: Tabuada Simples
+# Portuguese:
+# Essa é a minha primeira vez usando python, então deve ter faltado algo no código.
 
-# Objetivo:
-# Escreva um programa que peça ao usuário um número inteiro.
-# O programa deve exibir a tabuada desse número de 1 a 10.
-# Use uma estrutura de repetição para multiplicar o número pelo contador e exibir o resultado.
+# English:
+# This is my first time using python, so there must be something missing in the code.
 
 
 numero = int(input("Digite um número: "))
